@@ -11,7 +11,7 @@ Ce dépôt contient un exemple de code Arduino pour implémenter un réseau de n
 ## Prérequis
 
 - Arduino IDE
-- Une carte compatible Arduino
+- Une carte Arduino Due
 
 ## Installation
 
